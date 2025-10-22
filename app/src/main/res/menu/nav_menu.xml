@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:icon="@drawable/twotone_add_home_24" android:title="Home" />
+    <item android:id="@+id/nav_benefits" android:icon="@drawable/outline_add_notes_24" android:title="Benefits" />
+    <item android:id="@+id/nav_claim" android:icon="@drawable/outline_clinical_notes_24" android:title="Claim" />
+    <item android:id="@+id/nav_more" android:icon="@drawable/outline_density_medium_24" android:title="More" />
+</menu>
